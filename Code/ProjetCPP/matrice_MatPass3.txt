@@ -1,0 +1,9 @@
+TypeMatrice=double
+NBLignes=3
+NBColonnes=3
+Matrice=[
+-5 3 4
+4 8 5
+1 -2 6
+]
+
